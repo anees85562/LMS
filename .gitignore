@@ -1,0 +1,32 @@
+## Visual Studio / .NET Ignore
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.db-shm
+*.db-wal
+*.pidb
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
